@@ -9,6 +9,6 @@ The thing I struggled with the most was getting the leaves in the background. I 
 
 Here is a screenshot of my portrait:
 
-![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/Screen%20Shot%202020-09-13%20at%209.00.40%20PM.png)
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/Screen%20Shot%202020-09-13%20at%209.15.24%20PM.png)
 
 
