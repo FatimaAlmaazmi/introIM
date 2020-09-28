@@ -13,4 +13,5 @@ I'm really happy with this, because even though it was really easy to code and v
 
 Here is a screenshot of what it looks like (I'm sorry I dont know how to upload it in gif format :( ) :
 
-![](
+
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/Screen%20Shot%202020-09-28%20at%205.25.33%20PM.png)
