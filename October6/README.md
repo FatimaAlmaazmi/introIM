@@ -27,6 +27,16 @@ I will look into this and see what happens.
 ---
 
 
+Here are screenshots of random dog names I got:
+
+
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/Screen%20Shot%202020-10-06%20at%2012.40.38%20AM.png)
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/Screen%20Shot%202020-10-06%20at%2012.39.45%20AM.png)
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/Screen%20Shot%202020-10-06%20at%2012.39.16%20AM.png)
+
+
+---
+
 I am so happy for completing this code, and watching it finally work was the most relieving and happiest moment I have felt this week. :)
 
 
