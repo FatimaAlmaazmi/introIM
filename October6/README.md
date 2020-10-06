@@ -5,7 +5,7 @@
 
 This has been equally the hardest and most rewarding code I have ever worked with. Although what I was going after was so simple and could be easily written in a day, I spent so much time trying to figure out how I was going to make it work.
 
-My program uses a csv file of dog names in NYC, and how many dogs there are with said name. It displays a random name and its frequency of a dog once you click on the canvas. Names are displayed at texts, while the number of dogs are displayed by a function that draws dogs.
+My program uses a csv file of dog names in NYC, and how many dogs there are with said name. It displays a random name and its frequency of a dog once you click on the canvas. Names are displayed as texts, while the number of dogs are displayed by a function that draws dogs.
 
 ---
 
