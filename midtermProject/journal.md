@@ -13,28 +13,33 @@ For my midterm project I am planning on making a game based on the duck from my 
 For today, I am planning to draw some of the images that I will be using for my game.
 
 
-1) my own small array of images of the duck walking left and right:
+**1) my own small array of images of the duck walking left and right:
 
 
-right:
+
+**right:
 
 ![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/right%200.png)
 ![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/right%201.png)
 
 
-left:
+
+**left:
 
 ![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/left%200.png)
 ![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/left%201.png)
 
 
-2) annoying clicks:
+
+**2) annoying clicks:
 
 ![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/aclick.png)
 
-3) home or pond:
+
+**3) home or pond:
 
 ![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/home.png)
+
 
 
 I convereted all of the images to png with no backgrounds, so that it would be easier to work with them.
