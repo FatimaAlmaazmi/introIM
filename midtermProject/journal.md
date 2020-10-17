@@ -17,11 +17,13 @@ For today, I am planning to draw some of the images that I will be using for my 
 
 
 right:
+
 ![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/right%200.png)
 ![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/right%201.png)
 
 
 left:
+
 ![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/left%200.png)
 ![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/left%201.png)
 
