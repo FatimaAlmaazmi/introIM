@@ -10,6 +10,9 @@ This is my midterm project journal :)
 For my midterm project I am planning on making a game based on the duck from my previous assignment. The game would be about the duck and its journey home to the pond. You will control the duck and take it home, while avoiding annoying clicks along the way.
 
 
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_0281.PNG)
+
+
 For today, I am planning to draw some of the images that I will be using for my game.
 
 
