@@ -81,7 +81,7 @@ I also started experimenting with displaying the game itself. And here is where 
 I have planned to have the annoying clicks to be placed randomly everytime you restart the game or lose. However, the random fucntion is not giving me the type of randomness that I want. I tried using perlin noise, (I havent used it before) but I gave up on it halfway cause it took a lot of my time.
 
 
-So, after thinking it through. I might have the annoying clicks be in set places rather than random. Because it is too much of a hassle to deal with now, and I feel like this might help me later because I want to essentially map their locations so that when the duck touches them the lose screen will show. (I'm still not sure how I'm going to acheive that but inshallah I'll figure it out).
+So, after thinking it through. I might have the annoying clicks be in set places rather than random. Because it is too much of a hassle to deal with now, and I feel like this might help me later because I want to essentially map their locations so that when the duck touches them the lose screen will show. (I'm still not sure how I'm going to achieve that but inshallah I'll figure it out).
 
 Here is a screenshot of the game and the clicks:
 
