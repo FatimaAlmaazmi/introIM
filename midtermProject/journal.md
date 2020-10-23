@@ -97,5 +97,17 @@ So, hopefully I will get to figure this out soon :)
 
 -----
 
+## DAY4 (20/Oct/2020)
+
+I decided to allocate the click in specific locations, so today I did that only.
+Massive headache made it harder for me to work more :(
+
+-----
+
+## DAY5 (21/Oct/2020)
+
+Headache continues for some reason, and the screen is not making it better.
+
+However, I tried to 
 
 
