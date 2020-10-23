@@ -112,12 +112,12 @@ However, I used Professor Aaron's method for sprites to move my duck. I ran into
 
 Here is the spritesheet that I made:
 
-![](
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/Screen%20Shot%202020-10-22%20at%203.06.23%20PM.png)
 
 Then, it still didnt work for some reason, and I had to play around a lot with the code to get it right. Still not there yet.
 Also, the annoying clicks keep getting blurred for some reason I dont know whats going on. 
 
-![](
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/Screen%20Shot%202020-10-23%20at%207.31.39%20PM.png)
 
 I tried using a noLoop(); function to stop them from doing so, but that stopped the duck from moving as well which is problamatic, and I dont know how to fix this.
 
@@ -158,8 +158,10 @@ I also added a quack sound that plays when the game is lost :)
 
 Here are the winning and losing screens:
 
-![](
 
-![](
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/Screen%20Shot%202020-10-23%20at%207.44.34%20PM.png)
+
+
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/Screen%20Shot%202020-10-23%20at%207.43.50%20PM.png)
 
 
