@@ -108,6 +108,58 @@ Massive headache made it harder for me to work more :(
 
 Headache continues for some reason, and the screen is not making it better.
 
-However, I tried to 
+However, I used Professor Aaron's method for sprites to move my duck. I ran into some issues, where I had first loaded the images in a 2 seperate 1d arrays. This did not work, so I had to put the images together like actual sprite sheets.
+
+Here is the spritesheet that I made:
+
+![](
+
+Then, it still didnt work for some reason, and I had to play around a lot with the code to get it right. Still not there yet.
+Also, the annoying clicks keep getting blurred for some reason I dont know whats going on. 
+
+![](
+
+I tried using a noLoop(); function to stop them from doing so, but that stopped the duck from moving as well which is problamatic, and I dont know how to fix this.
+
+
+----
+
+## DAY6 (22/Oct/2020)
+
+no more headaches! yay!
+
+
+I finally decided to ask the Professor for help with this.
+
+I fixed my global variables so that I can have access to the duck's location on screen and to check it afterwards if it made contact with the winning area or the losing areas. 
+
+I still did not find a solution for the blurred clicks.
+
+A lot has changed in my code, moving functions back and forth between the class and the code itself.
+
+Today, I messed a lot with my code and it looks like a disaster.
+
+-----
+
+## DAY7 (23/Oct/2020)
+
+I'm desperate to complete this code, so that I can at least work on my other assignments :'(
+
+The Professor suggested that I make a global variable called "state" that tracks the winning and losing stages of the game. This made my whole life easier. I fixed the code, with the state variable, and everything works smoothly except....
+
+My clicks are still blurry.
+
+And, I can't restart the game for some reason. I'm still looking into it.
+
+However, I did get to finally make the winning and losing screen. They are fairly simple, but now I'm focusing more on making this game work than the way it looks :(
+
+I also added a quack sound that plays when the game is lost :)
+
+
+Here are the winning and losing screens:
+
+![](
+
+![](
 
 
