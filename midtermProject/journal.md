@@ -190,6 +190,14 @@ I tried converting the image to jpg. Re-uploading the image to my computer. Dele
 
 So, my plan for today is to try to figure this out. If I can't then I'll work on fixing the aesthetics of the game, i'll make the losing and winning screen better inshallah.
 
-TBC.
+MAJOR CHANGES JUST HAPPENED!
+
+Thanks to the Professor (who has been telling me this for two days), I finally fixed the blurry images. Thank god.
+
+The game works perfectly now, I'm so happy.
+
+I'm going to take a break from it today, and work on my other assignments. But, tomorrow I will work on the way it looks and hopefully be content with the game.
+
+----
 
 
