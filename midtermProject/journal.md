@@ -188,7 +188,7 @@ My game FINALLY restarts!
 But... the clicks are still blurry so I need to work on that. Its baffling me since, almost any image I use instead of the clicks work fine, but once I use the clicks they get blurred.
 I tried converting the image to jpg. Re-uploading the image to my computer. Deleting and re-uploading. Its no use. I don't know what else to do. :(
 
-So, my plan for today is to try to figure this out. If I can't then I'll work on fixing the aesthetics of the game, i'll make the losing and winning screen better inshallah.
+So, my plan for today is to try to figure this out. If I can't then I'll work on fixing the aesthetics of the game, I'll make the losing and winning screen better inshallah.
 
 MAJOR CHANGES JUST HAPPENED!
 
@@ -196,8 +196,25 @@ Thanks to the Professor (who has been telling me this for two days), I finally f
 
 The game works perfectly now, I'm so happy.
 
-I'm going to take a break from it today, and work on my other assignments. But, tomorrow I will work on the way it looks and hopefully be content with the game.
+I had extra time today so I worked on the aesthetics of the game, and here are the new winning and losing screens:
 
-----
+(They are still very simple, but meh)
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/Screen%20Shot%202020-10-25%20at%2010.46.30%20PM.png)
+
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/Screen%20Shot%202020-10-25%20at%2010.46.06%20PM.png)
+
+
+
+
+
+
+
+As of now, my game is complete. So this is my last journal entry :').
+
+
+
+Thank you!
+
+
 
 
