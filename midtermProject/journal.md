@@ -188,6 +188,8 @@ My game FINALLY restarts!
 But... the clicks are still blurry so I need to work on that. Its baffling me since, almost any image I use instead of the clicks work fine, but once I use the clicks they get blurred.
 I tried converting the image to jpg. Re-uploading the image to my computer. Deleting and re-uploading. Its no use. I don't know what else to do. :(
 
+So, my plan for today is to try to figure this out. If I can't then I'll work on fixing the aesthetics of the game, i'll make the losing and winning screen better inshallah.
+
 TBC.
 
 
