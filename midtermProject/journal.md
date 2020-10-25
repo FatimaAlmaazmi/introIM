@@ -164,4 +164,30 @@ Here are the winning and losing screens:
 
 ![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/Screen%20Shot%202020-10-23%20at%207.43.50%20PM.png)
 
+-----
+## DAY8 (24/Oct/2020)
+
+
+Okay, so there are many things that I am unhappy with about this game, but I really hope it works and people enjoy playing it.
+
+The way the duck moves grew on me somehow, and it looks really cute with its weird way of walking. So, I decided to keep it as it is. (I hope I won't regret this later).
+
+Upon talking with the Professor, I realized that my code is in shambles. So, I spent the day trying to fix some of the mistakes the Professor told me about.
+
+I was so mad at my code, I decided to leave it be for the time being and work on it tomorrow :(
+
+---
+
+## DAY9 (25/Oct/2020)
+
+
+Finally things are turning around. After spending some time away from my code, and trying to think of ways to fix it. I thought "We haven't been asking google for help, lets try asking more", and I came across a Processing forum that solved the same probelm I am facing with my code, which is trying to restarting it.
+
+My game FINALLY restarts!
+
+But... the clicks are still blurry so I need to work on that. Its baffling me since, almost any image I use instead of the clicks work fine, but once I use the clicks they get blurred.
+I tried converting the image to jpg. Re-uploading the image to my computer. Deleting and re-uploading. Its no use. I don't know what else to do. :(
+
+TBC.
+
 
