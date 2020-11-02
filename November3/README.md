@@ -19,11 +19,14 @@ Then, thank god, I realized that I had more options to use for this code like th
 
 This is the Rainbow puzzle. And, the goal is to turn on the blinking rainbow effect. But, to do so you would need to turn on the LEDs according to the colors of the rainbow. Red, then yellow, then green, and lastly blue. Once, you do that the blinking starts. Also, the color of the button does not correspond to the same colored LED. Each colored button turns on a different colored LED, so you would have to figure out which is which :)
 
-Here is a gif of the puzzle (ignore the part where one of the buttons come off lol) :
+
+I cannot seem to upload either a video or a gif of the puzzle because the files are too big :(
+
+However here is a picture of the puzzle and how one of the buttons work:
 
 
-
-![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/ezgif.com-video-to-gif.gif)
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_7799.HEIC)
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_7800.HEIC)
 
 
 
