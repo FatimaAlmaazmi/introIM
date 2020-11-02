@@ -25,8 +25,8 @@ I cannot seem to upload either a video or a gif of the puzzle because the files 
 However here is a picture of the puzzle and how one of the buttons work:
 
 
-![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_7799.HEIC)
-![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_7800.HEIC)
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_7799.jpg)
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_7800.jpg)
 
 
 
