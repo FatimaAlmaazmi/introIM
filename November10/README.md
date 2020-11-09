@@ -1,4 +1,4 @@
-##2nd Arduino Assignment 
+## 2nd Arduino Assignment 
 
 
 For this assignment, I wanted to expirement and learn more about controlling actuators with both analog and digital sensors.
