@@ -28,7 +28,7 @@ Here is photo of the physical components:
 
 Here is a link to the video of the assignment: 
 
-![click here!](https://drive.google.com/file/d/1ceOEmlGOBCiHZCVCEJ_Dk_B0nbmVc9hF/view?usp=sharing)
+[click here!](https://drive.google.com/file/d/1ceOEmlGOBCiHZCVCEJ_Dk_B0nbmVc9hF/view?usp=sharing)
 
 
 Thank you :)
