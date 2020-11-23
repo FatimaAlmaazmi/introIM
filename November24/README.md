@@ -1,10 +1,10 @@
 ## 4th Arduino Assignment
 
-For this assignment, I was really facsinated by the example code we analyzed in class, where we can control an object on processing by using one of the inputs from arduino.
+For this assignment, I was really fascinated by the example code we analyzed in class, where we can control an object on processing by using one of the inputs from arduino.
 
 For my simple game I wanted to try that example. However, I could not come up with a great idea for a game in this short time. I opted for making a really really simple game.
 
-In this game, you have to place the daisy on its stem, using the poetntiometer, photoresistor and a button. Once you place the flower correctly, a sound from processing will play to tell you that you have succeeded.
+In this game, you have to place the daisy on its stem, using the potentiometer, photoresistor and a button. Once you place the flower correctly, a sound from processing will play to tell you that you have succeeded.
 
 
 
@@ -33,6 +33,7 @@ The only minor challange I faced was a logical one. One of my if() statements ha
 
 
 ![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_8078.jpg)
+
 
 Here is a [link](https://drive.google.com/drive/folders/1Yr0IL4XbQ6v0Rr43FDO4JSH3pPR5qvJo?usp=sharing) to the video.
 
