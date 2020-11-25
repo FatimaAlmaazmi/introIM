@@ -7,19 +7,19 @@ This is my final project journal :)
 ## Day 1 (25/NOV/2020)
 
 
-For my final projet, I want to make a game out of my dancing dog project.
+For my final project, I want to make a game out of my dancing dog project.
 
 The goal of the game is to get the dog to the disco, so that he can dance. 
 
 
-Processing:
+**Processing:**
 
 The background will resemble a disco floor. The start position will be at the bottom left, and the end at the top right. The player has to move the dog, while using keypads, to the right path. If the player chooses a wrong path, the game is lost, and they have to start over. 
 
 Every right platform plays a single note from the dog's favorite song. 
 
 
-Arduino:
+**Arduino:**
 
 Servo Motor will move the dog as it did previously. 
 
