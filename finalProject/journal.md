@@ -42,3 +42,33 @@ My plan for next time: is to draw the dog so that I can use it on processing, an
 
 
 I hope it works :)
+
+____
+
+## Day 2 (30/NOV/2020)
+
+
+I spent the day working on the images I will be using in my code. I also tried to test the moveDog(); function, which basically moves the dog with the keypads. However, its not going well. The problem is that I have only a two image sprite, and I do not know how to incorprate it into the code correctly. I found one way to do so, but once the dog moves it leaves a trail of itself behind. I'm not sure what I'm doing wrong, but I will figure it out inshallah.
+
+Here are the images that I worked on today and will be using:
+
+**The dog:**
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_0306.jpeg)
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_0307.jpeg)
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_0308.jpeg)
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_0309.jpeg)
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_0310.jpeg)
+
+**The disco:**
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_0303.jpeg)
+
+**The weird trail:**
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/Screen%20Shot%202020-11-30%20at%2011.34.31%20PM.png)
+
+
+For tomorrow I am planning to work on the different states of the game. The start screen, game screen, winning screen, and losing screen. And hopefully when I get everything to work and look great, I will start incorperating the Arduino :)
+
+_____
+
+
+
