@@ -70,5 +70,38 @@ For tomorrow I am planning to work on the different states of the game. The star
 
 _____
 
+## Day 3 (1-2/DEC/2020)
+
+Okay, I had a lot of stuff done and I feel very happy about it even though I stayed up till 5AM for it to work.
+
+I worked on the different stages in the game and I am slightly proud with how they turned out. Also, the issue with the dog moving is fixed now! I'm not sure how but it work! 
+
+As of now, I have everything ready. I just need to put in the if(); statements that will make the game work, and hopefully everything will run smoothly. I'm slightly concerned about the arduino part of the whole game. I really hope it works.
+
+Here are the stages of the game:
+
+**Start Screen:**
+
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/Screen%20Shot%202020-12-02%20at%203.28.34%20AM.png)
+
+
+**Game Screen:**
+
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/Screen%20Shot%202020-12-02%20at%204.14.18%20AM.png)
+
+
+**Winning Screen:**
+
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/Screen%20Shot%202020-12-02%20at%205.28.23%20AM.png)
+
+
+
+**Losing Screen:**
+
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/Screen%20Shot%202020-12-02%20at%205.27.52%20AM.png)
+
+
+
+I hope that by tomorrow I will have the game working smoothly on processing, and the only thing I would have to work on then would be the Arduino program :)
 
 
