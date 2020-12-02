@@ -74,7 +74,7 @@ _____
 
 Okay, I had a lot of stuff done and I feel very happy about it even though I stayed up till 5AM for it to work.
 
-I worked on the different stages in the game and I am slightly proud with how they turned out. Also, the issue with the dog moving is fixed now! I'm not sure how but it work! 
+I worked on the different stages in the game and I am slightly proud with how they turned out. Also, the issue with the dog moving is fixed now! I'm not sure how but it works! 
 
 As of now, I have everything ready. I just need to put in the if(); statements that will make the game work, and hopefully everything will run smoothly. I'm slightly concerned about the arduino part of the whole game. I really hope it works.
 
