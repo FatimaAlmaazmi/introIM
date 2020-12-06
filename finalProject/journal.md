@@ -104,4 +104,45 @@ Here are the stages of the game:
 
 I hope that by tomorrow I will have the game working smoothly on processing, and the only thing I would have to work on then would be the Arduino program :)
 
+----
+
+## Day 4 (3/DEC/2020)
+
+
+I got the game to work! Everything runs smoothly. However, I did notice a logical error in my game, where the player could skip a few platforms and get to the disco faster. So I had to make it a bit harder. 
+
+
+I rerouted the whole pathway to the disco, so that at every platform there would be 2 wrong platforms and only 1 right. That way, they wont get to easily get to the finish line. (thats so mean of me but I had to do it)
+
+**Picture of new plan:**
+
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/CamScanner%2012-06-2020%2023.30_1.jpg)
+
+
+After that, I worked on getting the arduino linked with processing. It was easier than I expected, although I ran into some difficulties. 
+
+
+My myPort.write(); did not work in the void SerialEvent() for some reason. It only worked when I put them in void draw(). But, I guess as long as it works, I won't complain.
+
+The only issue I am facing as of now, is trying to make the buzzer play a note only once, when the player is at a certain platform. The buzzer plays the sound continuously. Even if I change the duration of the note on arduino. I'm not sure how I'll get that to work. I might have to ask the professor for help :)
+
+
+I have also planned how to make the physical aspect of this project more fun. I want to make an actual mini disco where the dog can dance. 
+
+
+**Disco:**
+
+
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/CamScanner%2012-06-2020%2023.28_1.jpg)
+
+
+
+
+So, for next time I really hope I have time to work on my project. With so many essays due on the same day I feel that I won't have as much time. But, I'll hope for the best :)
+
+
+---
+
+
+
 
