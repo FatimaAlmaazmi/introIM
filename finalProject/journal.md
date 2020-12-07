@@ -143,6 +143,39 @@ So, for next time I really hope I have time to work on my project. With so many 
 
 ---
 
+## Day 5 (7-8/DEC/2020)
 
 
+I worked a lot today! I finally had time to work on this before class, I was really worried I wouldnt. Anyways, I have the whole project working fine, but I had to let go of a few details.
+
+I still had the issue with the buzzer playing the notes continously, and I forgot to ask the professor about it. And, while running the program and the game, I came to realize how insignificant it is, and how annoying it is. I personally do not like games with sounds, especially if they are excessive. Which is why, I let go of that idea.
+
+However, if I get the chance, I will ask the professor about this.
+
+I also spent the weekend looking for a mini disco ball. I was so scared I wouldnt find one, but to my luck I did! And its all thanks to Christmas! If it werent Christmas, I wouldnt have gotten this christmas decoration that looks exactly like a disco ball lol.
+
+
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_8241.jpg)
+
+
+On another positive note though, I have the disco ready! It looks okay I guess lol. I just need to set the atmosphere when filming the video of the whole thing working, and inshallah it will look amazing.
+
+Here are photos of how I made the disco and how it looks like:
+
+
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_8235.jpg)
+
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_8236.jpg)
+
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_8237.jpg)
+
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_8238.jpg)
+
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_8242.jpg)
+
+![](https://github.com/FatimaAlmaazmi/introIM/blob/master/pics/IMG_8249.jpg)
+
+
+
+I hope everything goes well when I finally film this :)
 
