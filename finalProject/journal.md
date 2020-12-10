@@ -179,3 +179,19 @@ Here are photos of how I made the disco and how it looks like:
 
 I hope everything goes well when I finally film this :)
 
+---
+
+## Day 6 (10/DEC/2020)
+
+
+I finally filmed my project working!
+
+I am so happy, it looks decent. 
+
+Here is the [link](https://drive.google.com/drive/folders/1th1EklFEgM1-sBnKOVEVQhBKCu3vlsMP?usp=sharing) to the google drive with two vidoes (losing and winning the game).
+
+
+Thank you :)
+
+
+
